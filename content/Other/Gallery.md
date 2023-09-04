@@ -1,6 +1,0 @@
----
-Title: "Gallery"
-url: "/gallery"
----
-
-

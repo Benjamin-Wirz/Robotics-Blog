@@ -59,10 +59,6 @@ paginate = 5
         name = "About"
         url = "/about"
       [[menu.main]]
-        identifier = "gallery"
-        name = "Gallery"
-        url = "/gallery"
-      [[menu.main]]
         identifier = "tags"
         name = "Tags"
         url = "/tags"
