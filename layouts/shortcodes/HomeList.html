@@ -1,4 +1,4 @@
-{{ range .Site.RegularPages.ByDate | first 5}}
+{{ range .Site.Content.ByDate | first 5}}
 <h2><a href="{{ .RelPermalink}}">{{ .Title}}</a></h2>
 {{ .Summary }}
 <br>
