@@ -1,10 +1,27 @@
-{{ range .Site.Content.ByDate | first 5}}
-<h2><a href="{{ .RelPermalink}}">{{ .Title}}</a></h2>
-{{ .Summary }}
-<br>
-{{ if .Truncated }}
-<a href="{{ .RelPermalink }}">Read More...</a>
-{{end}}
-<br> 
-{{ .ReadingTime }} minute read
-{{ end }}
+{{ define "main" }}
+  {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
+  {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
+
+  {{ $PageContext := . }}
+  {{ if .IsHome }}
+    {{ $PageContext = .Site }}
+  {{ end }}
+  {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) }}
+
+  {{ range $paginator.Pages }}
+  h2><a href="{{ .RelPermalink}}">{{ .Title}}</a></h2>
+  {{ .Summary }}
+  <br>
+  {{ if .Truncated }}
+  <a href="{{ .RelPermalink }}">Read More...</a>
+  {{end}}
+  <br> 
+  {{ .ReadingTime }} minute read
+  {{ end }}
+{{}}
+
+
+
+  
+
+
