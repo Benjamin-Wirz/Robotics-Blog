@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 url: "/about"
-
+date: "1-1-1970"
 ---
 
 {{< image src="/img/AboutPic.webp" alt="Me working on a RC tank" position="center" style="border-radius: 8px;" >}}
