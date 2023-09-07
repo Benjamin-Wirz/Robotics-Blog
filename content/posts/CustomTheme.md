@@ -1,8 +1,9 @@
----
-title: "Altering A Hugo Theme"
-date: 2023-09-06T12:38:45Z
-draft: false
----
++++
+title = "Altering A Hugo Theme"
+date = 2023-09-06T12:38:45Z
+draft = false
+tags = [ "Hugo",  "Website" ]
++++
 
 Quick disclaimer, I am not an experienced web developer, or programer of any 
 kind, there are probably 10 better ways to do this but I am not aware of them.
