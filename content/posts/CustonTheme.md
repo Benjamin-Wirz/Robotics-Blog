@@ -2,7 +2,6 @@
 title: "CustonTheme"
 date: 2023-09-06T12:38:45Z
 draft: false
-Tags: "Hugo"
 ---
 ## Altering a Hugo Theme
 

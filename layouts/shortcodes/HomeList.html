@@ -1,14 +1,16 @@
-{{ range .Site.RegularPages.ByDate.Reverse | first 5}}
+{{ range .Site.RegularPages.ByDate.Reverse | first 1}}
 <h2><a href="{{ .RelPermalink}}">{{ .Title}}</a></h2>
 <time>{{ .Date.Format "Jan 2, 2006" }}</time>
 <br>
 <br>
 {{ .Summary }}
 <br>
+<br>
 {{ if .Truncated }}
 <a href="{{ .RelPermalink }}">Read More...</a>
 {{end}}
 <br> 
+<br>
 {{ .ReadingTime }} minute read
 {{ end }}
 
