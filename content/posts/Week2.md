@@ -1,0 +1,9 @@
+---
+title: "Week2"
+date: 2023-09-14T11:39:42-04:00
+draft: true
+---
+
+This was the first full week in school that we had, and we definetly felt it. The humidity has been down sigificantly the past couple of days which was quite nice. I was taken off of the fish feeder repairs to work on the Float with [Scott Campell](https://josephscottcampbell.com/), and the fish feeder was thus handed off to [Sacha Silva](https://sachasilvia.wordpress.com/).
+
+The Float if one of the coolest peices of hardware I have designed and built. It changes its volume which therefore changes its density making the craft rise and sink in the water. Commerically this is done by pumping oil into different containers. one which has a fixed volume, and a rubber bladder that increases the volume of the craft, therefore density. We however chose to physically move the bottem of a cylinder up and down to create the volume difference. Last year this was done by using a resin printed piston with a dynamic o-ring seal, which was quite the pain to get working. However we now have it working properly and will most likely stick with this approach, with a slight modification. This year we will be turning a solid aluminum piston, so we can easily interchange motor holders, allowing for easy motor swaps. This is a large problem we ran into last year as we had to change motors quite often due to the motors not being quite powerful enough to overcome the 10ft water column. We need to machine it out of metal, due to the fact that resin prints do not work very well with threaded inserts. This then allows us to screw in anti rotation pins to the piston to eliminate 
