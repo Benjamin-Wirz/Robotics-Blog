@@ -2,6 +2,7 @@
 title: "Week2"
 date: 2023-09-14T11:39:42-04:00
 draft: false    
+tags = [ "Weekly Blog", "Float"]
 ---
 
 This was the first full week in school that we had, and we definitely felt it. The humidity has been down significantly the past couple of days which was quite nice. This week I was taken off of the fish feeder repairs to work on the Float with [Scott Campell](https://josephscottcampbell.com/) which I will probably be doing for the next school year, and the fish feeder was thus handed off to [Sacha Silva](https://sachasilvia.wordpress.com/).
