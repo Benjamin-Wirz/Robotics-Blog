@@ -2,7 +2,7 @@
 title: "Week 3"
 date: 2023-09-21T13:37:03-04:00
 draft: False
-tags = [ "Weekly Blog", "Float", "3D Printer"]
+tags: [ "Weekly Blog", "Float", "3D Printer"]
 ---
 
 This week I fully focused on the float, and particulary the anti rotation rods. I have been trying to figue out what material to use for them fou a couple weeks now, but this is the first week where I have made it a goal, and not an overarching requirement. This is much easier said than done. Last week we diecided that it wasn't worth the time and effort to use piping to hide the wires, which is a bit sad, but also makes my life so much easier. Originally we were going to use Delrin, which is a machining plastic that is also fairly cheap. I, however, wasn't entirely sure how rigid it would be, so i decided to try to do the math. Now this was hard. I had an incomplete, and oversimplified idea of how to do this. Because of this, I then decided to try out using fusion 360's simulation software which didn't go to plan aswell. Because of this I decided instead to try to do the math again, which I got much further in. However this is when I realized it would be a whole lot easier to just order a steel precision ground rod that I know will withstand the force of any motor we throw at it.
