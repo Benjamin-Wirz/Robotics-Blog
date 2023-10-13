@@ -2,7 +2,8 @@
 title: "Week 6"
 date: 2023-10-12T11:19:02-04:00
 draft: false
-tag: ["float", "resin", "Piston Seal", "Weekly Blog"]
+tags: ["Float", "Resin", "Piston Seal", "Weekly Blog"]
+categories: ["Weekly Blog"]
 ---
 
 Now that my parts have arived I can get back to working directly on the float. At the end of last week the tubes came in that will serve as the main float body. I then tested to see if they fit with the old piston and top cap, which they unfortunatly do not at all. These tubes are significatnly smaller in their inner (and probably outer, although that doesn't really matter to us) diamter than the old tube. Measuring it with a telescoping gauge told me that the inner diamter was 50 thousants smaller than the dimension, which was within the specification that they gave us, however it would've been nice to not need to redevelop the o-ring seal. 
@@ -15,4 +16,4 @@ I started off designing for an o-ring that I already had using the Parker onlion
 
 Because of the new dimensions of the tube, the piston isn't the only thing that needed to be redone. I completely re modeled the top cap, making it much better than before, and also actualy usable with our tubes. 
 
-{{< figure src="/img/Week6/Week6Pic2.webp" alt="Image of the new cap " position="center" style="border-radius: 8px;" caption="This is the new cap that I designed, I got rid of the dish on top as It actually caused issues where it wouldn't sink as it wouldn't will with water." captionPosition="left" height="1080" width="1920" >}}
+{{< figure src="/img/Week6/Week6Pic2.webp" alt="Image of the new cap " position="center" style="border-radius: 8px;" caption="This is the new cap that I designed, I got rid of the dish on top as It actually caused issues where it wouldn't sink as it wouldn't fill with water." captionPosition="left" height="1080" width="1920" >}}

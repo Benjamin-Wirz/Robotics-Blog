@@ -2,7 +2,8 @@
 title: "Week 5"
 date: 2023-10-05T13:29:32-04:00
 draft: false
-tags: ["Machining", "Ring", "Lathe", ]
+tags: ["Machining", "Ring", "Lathe"]
+categories: ["Weekly Blog"]
 ---
 
 This week I learned how to use the lathe. This is because I was waiting on parts to arrive, which they now have, in perfect timing so I can start the next phase of the float. So in this little down time in the float project I decided to do this as I will also need it later on in the project, to turn the aluminum piston. 

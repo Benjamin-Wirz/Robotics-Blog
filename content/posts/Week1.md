@@ -1,9 +1,10 @@
-+++
-title = "Week 1"
-date = 2023-09-07T11:33:05-04:00
-draft = false
-tags = [ "Weekly Blog", "Fish Feeder", "3D Printer", "Website"]
-+++
+---
+title: "Week 1"
+date: 2023-09-14T11:39:42-04:00
+draft: false    
+tags: ["Fish Feeder", "3d Printer"]
+categories: ["Weekly Blog"]
+---
 
 This past week has been rough as it's our first almost full week back in shop and it is fairly hot with super high humidity to go along with it. In the shop I have been primarily working on the fish feeder for the biotech shop here in the voc. I have also been working on this website which has been pretty frustrating and rewarding.
 

@@ -2,7 +2,8 @@
 title: "Week 4"
 date: 2023-09-28T13:56:47-04:00
 draft: false
-tags: [ "Weekly Blog", "Float", "3D Printer", "Battery Holder"] 
+tags: ["Float", "3D Printer", "Battery Holder"] 
+categories: ["Weekly Blog"]
 ---
 
 With our nice four day week, I continued to design the intricate systems on the float, with the main focus on the Battery Holder. This brick of plastic is designed to hold 8 AA batteries. Last year we used off the shelf battery holders, which were nice and easy, especially since we were in a time crunch, however they were not very space effecient. This year we are going a different route. We ordered some [battery contact/clip thingys](https://www.digikey.com/en/products/detail/keystone-electronics/5233/16343671) from Digikey, and are custom manufacturing our own battery revolver. While not dangerous, this holder is much more space efficient and also much cooler than our previous design. That being said it is muuuuch more complex. It took me about a day to fully model it, with someone else taking a crack at it before me. 
