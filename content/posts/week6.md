@@ -2,11 +2,12 @@
 title: "Week 6"
 date: 2023-10-12T11:19:02-04:00
 draft: false
+tag: ["float", "resin", "Piston Seal", "Weekly Blog"]
 ---
 
 Now that my parts have arived I can get back to working directly on the float. At the end of last week the tubes came in that will serve as the main float body. I then tested to see if they fit with the old piston and top cap, which they unfortunatly do not at all. These tubes are significatnly smaller in their inner (and probably outer, although that doesn't really matter to us) diamter than the old tube. Measuring it with a telescoping gauge told me that the inner diamter was 50 thousants smaller than the dimension, which was within the specification that they gave us, however it would've been nice to not need to redevelop the o-ring seal. 
 
-{{< figure src="/img/Week5/Week6Pic1.jpg" alt="Screenshot of the O-ring selector." position="center" style="border-radius: 8px;" caption="This is a screen shot from the Parker O-ring selector. You imput the values and it tells you at the bottom if they will work properly." captionPosition="left" height="1080" width="1920" >}}
+{{< figure src="/img/Week5/Week6Pic1.webp" alt="Screenshot of the O-ring selector." position="center" style="border-radius: 8px;" caption="This is a screen shot from the Parker O-ring selector. You imput the values and it tells you at the bottom if they will work properly." captionPosition="left" height="1080" width="1920" >}}
 
 {{< figure src="/img/Week5/Week6Pic3.webp" alt="Image of the larger o-ring test peice." position="center" style="border-radius: 8px;" caption="Here is the test peice that I used, it was simply just too tight for the motor to be able to handle the resistance and the vacuum. This was the first resin print of the year so I had to set up the resin 3D printers." captionPosition="left" height="1080" width="1920" >}}
 
