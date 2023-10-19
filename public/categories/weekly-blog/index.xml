@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weekly Blog on </title>
+    <link>/categories/weekly-blog/</link>
+    <description>Recent content in Weekly Blog on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Oct 2023 17:28:28 -0400</lastBuildDate><atom:link href="/categories/weekly-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 7</title>
+      <link>/posts/week7/</link>
+      <pubDate>Thu, 19 Oct 2023 17:28:28 -0400</pubDate>
+      
+      <guid>/posts/week7/</guid>
+      <description>This week I had to put the piston on the back burner, as I needed to wait for the O-rings to arrive. This meant that I was able to focus on something else for a little bit. I started assembling the battery holder which turned out to be a lot more difficult that I expected.
+The Formlabs Form 3+ resin printers that the shop has are bullet proof about 97% of the time, however that 3% of the time they are very very frustrating to work with and fix.</description>
+    </item>
+    
+    <item>
+      <title>Week 6</title>
+      <link>/posts/week6/</link>
+      <pubDate>Thu, 12 Oct 2023 11:19:02 -0400</pubDate>
+      
+      <guid>/posts/week6/</guid>
+      <description>Now that my parts have arived I can get back to working directly on the float. At the end of last week the tubes came in that will serve as the main float body. I then tested to see if they fit with the old piston and top cap, which they unfortunatly do not at all. These tubes are significatnly smaller in their inner (and probably outer, although that doesn&amp;rsquo;t really matter to us) diamter than the old tube.</description>
+    </item>
+    
+    <item>
+      <title>Week 5</title>
+      <link>/posts/week5/</link>
+      <pubDate>Thu, 05 Oct 2023 13:29:32 -0400</pubDate>
+      
+      <guid>/posts/week5/</guid>
+      <description>This week I learned how to use the lathe. This is because I was waiting on parts to arrive, which they now have, in perfect timing so I can start the next phase of the float. So in this little down time in the float project I decided to do this as I will also need it later on in the project, to turn the aluminum piston.
+I started this project by quickly and simply modeling the ring in CAD, and then printing out a drawing of the part that would be used in the machining phase.</description>
+    </item>
+    
+    <item>
+      <title>Week 4</title>
+      <link>/posts/week4/</link>
+      <pubDate>Thu, 28 Sep 2023 13:56:47 -0400</pubDate>
+      
+      <guid>/posts/week4/</guid>
+      <description>With our nice four day week, I continued to design the intricate systems on the float, with the main focus on the Battery Holder. This brick of plastic is designed to hold 8 AA batteries. Last year we used off the shelf battery holders, which were nice and easy, especially since we were in a time crunch, however they were not very space effecient. This year we are going a different route.</description>
+    </item>
+    
+    <item>
+      <title>Week 3</title>
+      <link>/posts/week3/</link>
+      <pubDate>Thu, 21 Sep 2023 13:37:03 -0400</pubDate>
+      
+      <guid>/posts/week3/</guid>
+      <description>This week I fully focused on the float, and particulary the anti rotation rods. I have been trying to figue out what material to use for them fou a couple weeks now, but this is the first week where I have made it a goal, and not an overarching requirement. This is much easier said than done. Last week we diecided that it wasn&amp;rsquo;t worth the time and effort to use piping to hide the wires, which is a bit sad, but also makes my life so much easier.</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>/posts/week1/</link>
+      <pubDate>Thu, 14 Sep 2023 11:39:42 -0400</pubDate>
+      
+      <guid>/posts/week1/</guid>
+      <description>This past week has been rough as it&amp;rsquo;s our first almost full week back in shop and it is fairly hot with super high humidity to go along with it. In the shop I have been primarily working on the fish feeder for the biotech shop here in the voc. I have also been working on this website which has been pretty frustrating and rewarding.
+The fish feeder was originally built by students before my time, and its main purpose is to feed the fish that the biotech shop has automatically.</description>
+    </item>
+    
+    <item>
+      <title>Week2</title>
+      <link>/posts/week2/</link>
+      <pubDate>Thu, 14 Sep 2023 11:39:42 -0400</pubDate>
+      
+      <guid>/posts/week2/</guid>
+      <description>This was the first full week in school that we had, and we definitely felt it. The humidity has been down significantly the past couple of days which was quite nice. This week I was taken off of the fish feeder repairs to work on the Float with Scott Campell which I will probably be doing for the next school year, and the fish feeder was thus handed off to Sacha Silva.</description>
+    </item>
+    
+  </channel>
+</rss>

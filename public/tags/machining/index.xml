@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machining on </title>
+    <link>/tags/machining/</link>
+    <description>Recent content in Machining on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Oct 2023 13:29:32 -0400</lastBuildDate><atom:link href="/tags/machining/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 5</title>
+      <link>/posts/week5/</link>
+      <pubDate>Thu, 05 Oct 2023 13:29:32 -0400</pubDate>
+      
+      <guid>/posts/week5/</guid>
+      <description>This week I learned how to use the lathe. This is because I was waiting on parts to arrive, which they now have, in perfect timing so I can start the next phase of the float. So in this little down time in the float project I decided to do this as I will also need it later on in the project, to turn the aluminum piston.
+I started this project by quickly and simply modeling the ring in CAD, and then printing out a drawing of the part that would be used in the machining phase.</description>
+    </item>
+    
+  </channel>
+</rss>
