@@ -2,7 +2,7 @@
 title: "Week 6"
 date: 2023-10-12T11:19:02-04:00
 draft: false
-tags: ["Float", "Resin", "Piston Seal", "Weekly Blog"]
+tags: ["Float", "Resin", "Piston Seal"]
 categories: ["Weekly Blog"]
 ---
 
