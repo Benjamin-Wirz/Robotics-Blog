@@ -1,3 +1,6 @@
 [submodule "themes/hello-friend-BW"]
 	path = themes/hello-friend-BW
 	url = https://github.com/Benjamin-Wirz/hello-friend-BW.git
+[submodule "themes/hugo-video"]
+	path = themes/hugo-video
+	url = https://github.com/martignoni/hugo-video.git
