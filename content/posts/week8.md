@@ -10,3 +10,6 @@ In much more exiting news I got the Autodesk CFD software working, and was able 
 
 {{< figure src="/img/Week8/Week8Pic1.png" alt="Plane of the CDF results " position="center" style="border-radius: 8px;" caption="Here you can see the side plane view of the test simulation. The results don't really make sense to me, but it still looks kind of cool." captionPosition="left" height="1080" width="1920" >}}
 
+{{< youtube id="ZeI8upOrMGw" autoplay="true" >}}
+
+I have since learned that this simulation was bad, as I didn't set the walls to slip, which heavily affected the results. I have since redone the simulation, and it makes much more sense. 
