@@ -10,7 +10,7 @@ This week I finally got the CFD software to play nice with the new ROV model. to
 
 {{< figure src="/img/Week9/Week9Pic1.png" alt="Picture of traces" position="center" style="border-radius: 8px;" caption="This is what happens when I run traces in the airflow, it is very much disrupted by the model, and in a very turbulent way. " captionPosition="left" height="1080" width="1920" >}}
 
-{{< figure src="/img/Week9/Week9Pic1.png" alt="Picture of Wall Calulation" position="center" style="border-radius: 8px;" caption="Here is the Wall Calulation. Using whatever axis the model is facing, you are able to calculate the force, and then use that in calculating the drag coefficient." captionPosition="left" height="1080" width="1920" >}}
+{{< figure src="/img/Week9/Week9Pic2.png" alt="Picture of Wall Calulation" position="center" style="border-radius: 8px;" caption="Here is the Wall Calulation. Using whatever axis the model is facing, you are able to calculate the force, and then use that in calculating the drag coefficient." captionPosition="left" height="1080" width="1920" >}}
 
 
 Another thing that happened this week was my restarting of the piston seal project. My battery holder project was given to a softmore, Matt Stricker, which will being his first major design project which is very exciting. I will be helping Matt design and built this part, which will not be easy. If worst comese to worst on this part, we have lots more room, so it is not entirely necssary to have it be cylindrical, and we can simply make another mesh of normal battery holders, wired up in series, and have plenty of room leftover for the pcb, and other things that will be needed. 
