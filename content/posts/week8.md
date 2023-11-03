@@ -2,6 +2,8 @@
 title: "Week 8"
 date: 2023-10-26T13:25:02-04:00
 draft: false
+tags: ["Simulation", "Fish Feeder"]
+categories: ["Weekly Blog"]
 ---
 
 This week the auger in the fish feeder broke. This meant I needed to fix it majorly, and not just reprint the auger. We eventually settled on reducing the length of the auger, by adding a bend in the pipe. This effctively reduces the torque on the auger as it doesn't have to be as long. Another measure I took to reduce the torque was to increase the diameter of the auger, as bits of fishfood were getting caught inbetween the auger blades and the inside of the pipe. Increasing the diameter should reduce this amount of torque altogether. To increase the strength of the auger I also epoxied the two halfs together. 
