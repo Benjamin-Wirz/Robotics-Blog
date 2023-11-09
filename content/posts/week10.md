@@ -10,7 +10,7 @@ This week we got invited to the MITRE corperations opening ceremony for their ne
 
 {{< figure src="/img/Week10/Week10Pic3.jpg" alt="Picture of all PCB's" position="center" style="border-radius: 8px;" caption="Here are the rest of the boards, that hold the Logic, Power Distribution and ethernet switch." captionPosition="left" height="1080" width="1920" >}}
 
-[Aaron BenDaniel}(https://aaronbendaniel.wordpress.com/) took on the hardware side of this, as he was the one out of the two of us that came in on tuesday for about 6 hours, that knew how to use the water jet. The frame is made out of water jet 1/8th inch aluminum plate. Unfortunatly the waterjet clogged itself, but on wednesday Mr. Christy fixed it and Aaron was able to get the frame done and it looks awesome. 
+[Aaron BenDaniel](https://aaronbendaniel.wordpress.com/) took on the hardware side of this, as he was the one out of the two of us that came in on tuesday for about 6 hours, that knew how to use the water jet. The frame is made out of water jet 1/8th inch aluminum plate. Unfortunatly the waterjet clogged itself, but on wednesday Mr. Christy fixed it and Aaron was able to get the frame done and it looks awesome. 
 
 {{< figure src="/img/Week10/Week10Pic1.jpg" alt="Picture of full rov" position="center" style="border-radius: 8px;" caption="This is the frame that Aaron designed and built." captionPosition="left" height="1080" width="1920" >}}
 
