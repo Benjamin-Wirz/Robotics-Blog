@@ -2,6 +2,8 @@
 title: "Week11"
 date: 2023-11-16T16:59:46-05:00
 draft: false
+tags: ["JONAROV", "MITRE"]
+
 ---
 
 This week was crunch time. With the MITRE ceremony next week these were the last 5 days that we had to get JONA ready for its unveiling. Most of the stuff that we did this week was fairly small, but very important. These things included thruster guards, all of the small little wire that connect things in the tube, and also crimping literally everything. 
