@@ -2,7 +2,7 @@
 title: "Week 14"
 date: 2023-10-26T13:25:02-04:00
 draft: false
-tags: ["Float"]
+tags: ["Float", "Battery Holder"]
 categories: ["Weekly Blog"]
 ---
 
