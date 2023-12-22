@@ -1,6 +1,6 @@
 ---
 title: "Week 15"
-date: 2023-12-22 T11:39:42-04:00
+date: 2023-12-22T13:25:02-04:00
 draft: false    
 tags: ["Float", "Lathe"]
 categories: ["Weekly Blog"]
