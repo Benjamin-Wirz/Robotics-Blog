@@ -1,7 +1,7 @@
 ---
 title: "Week 15"
-date: 2024-12-22T13:25:02-04:00
-draft: false    
+date: 2023-12-22T11:00:38-05:00
+draft: false
 tags: ["Float", "Lathe"]
 categories: ["Weekly Blog"]
 ---
