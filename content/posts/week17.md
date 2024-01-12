@@ -2,6 +2,8 @@
 title: "Week 17"
 date: 2024-01-11T22:22:30-05:00
 draft: false
+tags: ["Float", "Piston", "Anti-Rotation Rods"]
+categories: ["Weekly Blog"]
 ---
 
 This week the shop flooded. With all of the weather we have been having, a drain outside clogged, and a bunch of water came in through the garage door. This basically killed all productivity for wednesday, but the week wasn't too bad. This week I did the first test of the piston action inside the tube, which was fairly sucessful, with some minor hiccups.
