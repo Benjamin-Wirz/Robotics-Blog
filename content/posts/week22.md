@@ -8,4 +8,4 @@ This week was a little bit of a dissapointment, as we had a snow day. This made 
 
 {{< figure src="/img/Week22/Week22Pic1.jpg" alt="Tube with base plate on" position="center" style="border-radius: 8px;" caption="Here is the tube that has the acrylic base welded onto it, this is what the weights attach to." captionPosition="left" height="1080" width="1920" >}}
 
-{{< figure src="/img/Week22/Week22Pic2.jpg" alt="CAD Screenshot" position="center" style="border-radius: 8px;" caption="Here is the CAD file of the weights. You can see the two larger weights, and a smaller angry dorito to add that little bit of extra weight." captionPosition="left" height="1080" width="1920" >}}
+{{< figure src="/img/Week22/Week22Pic2.png" alt="CAD Screenshot" position="center" style="border-radius: 8px;" caption="Here is the CAD file of the weights. You can see the two larger weights, and a smaller angry dorito to add that little bit of extra weight." captionPosition="left" height="1080" width="1920" >}}
