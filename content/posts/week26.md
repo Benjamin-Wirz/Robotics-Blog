@@ -5,7 +5,7 @@ draft: False
 ---
 
 This week was very disapointing. It started very good, but we were unfortunatly unable to get into the pool due to the webclient being annoying, and to add insult to injury, the whole tube cracked. This means that we will have to create a whole new tube, which will happen today. This really sucks. 
-
+ 
 On the topic of the wings, I have selected the NACA 7310 airfoil for the high camber airfoil. I used an online tool by NASA to help gather data for this airfoil, which greatly aided me in the search. Additionally I started to work on the intermediary peice that interfaces with the Wingbody, and the Wing. This is essentially what will allow the wing to be rigidly mounted on the float. I had determined that the pivoting mechanism needs to sit 25mm behind the center of lift of the wing. This will allow the float to be balanced properly in its vertical position. 
 
 {{< figure src="/img/Week26/Week26Pic2.png" alt="NASA Wing Website" position="center" style="border-radius: 8px;" caption="This is the NASA tool that I used to iterativley find the ideal airfoil for this design." captionPosition="left" height="1080" width="1920" >}}
