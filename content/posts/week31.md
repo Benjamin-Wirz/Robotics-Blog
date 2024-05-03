@@ -1,7 +1,7 @@
 ---
 title: "Week 31"
 date: 2024-05-03T14:12:48Z
-draft: true
+draft: false
 ---
 
 This week I continued working on the locking mechanism, and assembling it for pool testing, which we did yesterday. All of the new parts are working great, but I had to reprint the reciever side of the tool, because of the bolts being in the way of the locking pin. This extended the time that it took to do this, which was quite annoying, but it is done now so i'm not complaining. This locking mechanism works great, so we will continue to use it, aswell as on some other critical tools, which can see some of these stresses. 
