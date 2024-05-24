@@ -24,3 +24,19 @@ To complete the new float, we will also need a second piston. This means that I 
 ### Battery Holder
 
 Yesterday Scott and I were not able to figure all of the stuff out. Today, we ended up just making a new DXF, that actually lines up with the things. This simplifid the work that needed to be done in KiCad, which was nice as KiCad wasn't designed for this type of work in mind. Fortunatly this new stratagy was WAY better, as it was essentally drag and drop onto the new DXF in KiCad. This new battery holder will be so much better as we won't have soley soldered wires connecting everything. The traces and connectors will be much more reliable. 
+
+### Piston
+
+Today I started on the real turning of the piston. I turned the overall stock down to diameter, using a bunch of 20 thou passes with a carbide insert. Annoyingly Aluminum doesn't chip right with these passes, and they make a bunch of springs, up to about 4 feet long which can get annoying at best, and terrifying at its worst. Tomorrow I will probably cut the grooves. 
+
+ # Wednesday 
+
+### Computer
+
+So my entire day got a little de railed, as the doations from the Toyota Research institute. For me the most exciting things are the two high end workstations that we got. In them are 2 Xeon ES-2690 CPU's, 128 GB's of DDR3 ram, and 2 NVIDIA Titan Xp GPU's in SLI. One of the CPU's msrp is about $2000, which is absolutely insane. These are definitly the nicest systems that I have seen in person. I don't have much hope of maxing them out, but Scott and I might be taking on the golf cart next year, so AI training might happen. For me, I might be able to do some crazy CFD now, but i'm not very sure. 
+
+# Thursday
+
+### Piston Continued 
+
+Today I turned the groove for the O-ring. To do this I had to put the parting tool in its holder thingy, and then center it, using a cool scale trick. 
