@@ -14,7 +14,7 @@ The first thing that I wanted to do to steer the golfcart, was to attach a motor
 
 The next thing that I though of was using a linear actuator to push and pull on the actual wheels steering knuckle to do the turning. The benifit to doing this, is that powerful linear actuators are much cheaper, because they are used in many things, as well as the fact that actuators in this range exist, and aren't very expensive at all. 
 
-{{< figure src="/img/SeniorWeek1/SeniorWeek1Pic2.png" alt="Golfcart front end" position="center" style="border-radius: 8px;" caption="the steering rack is the long tube thing, and it connects to the knuckle. This is where I would mount a linear actuator to steer. Above it you can see the steering column, which would have the motor attached to it. " captionPosition="left" height="4032" width="3024" >}}
+{{< figure src="/img/SeniorWeek1/SeniorWeek1Pic2.jpg" alt="Golfcart front end" position="center" style="border-radius: 8px;" caption="the steering rack is the long tube thing, and it connects to the knuckle. This is where I would mount a linear actuator to steer. Above it you can see the steering column, which would have the motor attached to it. " captionPosition="left" height="4032" width="3024" >}}
 
 Luckily Mr. Christy found a motor that looks really good and is a good price, so at the moment we will go with option 1. The next steps will be to order the motor, and start modeling up a mounting solution in CAD. 
 
