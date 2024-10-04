@@ -1,7 +1,7 @@
 ---
 title: "Senior Week 4"
 date: 2024-09-27T13:06:52Z
-draft: true
+draft: false
 ---
 
 This week is when the Pillow block started to really pick up speed. On friday I used the tormach to mill the profile of the pillow block, which was very sucessful for my first time using the cnc funtion of the mill.
