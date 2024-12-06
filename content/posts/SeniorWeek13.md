@@ -8,7 +8,8 @@ This week I started a new project. In my science class we need to do a science p
 
 I would love to build a fully custom stage from scratch, however thats just not feasable. We need this by january at the latest, so building custom linear slides is out of  question. What I have done is buy an XY mirometer actuated stage on Ebay. The plan is to simply directly drive the micrometers With little stepper motors and build a little stand and plate for everything to sit on. 
 
+{{< figure src="/img/SeniorWeek13/SeniorWeek13Pic1.png" alt="XY Stage" position="center" style="border-radius: 8px;" caption="The stage is meant to be manually controlled, and you can buy precision electric actuators that fit, however they are ridiculously expensive." captionPosition="left" height="4032" width="3024" >}}
 
+In the mean time I have been doing a little bit of design work for the motor coupling, however that has been halted as I can't continue without the stage and the proper measurements from it. Now I have been working a little on getting a testing board for the stepper motors working which has been a little difficult. 
 
-
-The 
+{{< figure src="/img/SeniorWeek13/SeniorWeek13Pic2.jpg" alt="Stepper Motor" position="center" style="border-radius: 8px;" caption="These are some pretty tiny motors, which is fine as we aren't moveing anything too heavy, plus the micrometer gearing is so fine that it give lots of mechanical advantage to the motor anyway. I'm not worried." captionPosition="left" height="4032" width="3024" >}}
