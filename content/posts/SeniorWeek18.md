@@ -2,6 +2,7 @@
 title: "Senior Week 18"
 date: 2025-01-23T13:55:30Z
 draft: false
+ShowWordCount: true
 ---
 
 This week was pretty good all things considered. I continued with the manufacuring of the stage's base, as well as starting on the rails. After finishing the rails all I have is some turning to do and then the most complicated portion will be done.
