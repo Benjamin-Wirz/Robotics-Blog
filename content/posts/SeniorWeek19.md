@@ -27,11 +27,11 @@ Wednesday was a lot of doing the exact same things, so I will just go over the p
 
 Firstly the end face must be faced down square. Then doing the long facing opperations to bring the stock down to .25 inches. This was a little scary, as at .25 inches to maintain the SFM, I needed to run at 1300 rpm. After the correct Diameter is reached, I can then drill for an M4 tap, and then tap it. After that I part it off. The thing I noticed is that lathe work is much slower than mill work, and i'm not really sure why. 
 
-{{< figure src="/img/SeniorWeek18/seniorWeek18Pic2.JPG" alt="Mill Traming" position="center" style="border-radius: 8px;" caption="This is pretty annoying to do, very tedious, however very crucial." captionPosition="left" height="4032" width="3024" >}}
+{{< figure src="/img/SeniorWeek19/seniorWeek19Pic2.JPG" alt="Mill Traming" position="center" style="border-radius: 8px;" caption="This is pretty annoying to do, very tedious, however very crucial." captionPosition="left" height="4032" width="3024" >}}
 
-{{< figure src="/img/SeniorWeek18/seniorWeek18Pic4.jpg" alt="Mill Traming" position="center" style="border-radius: 8px;" caption="" captionPosition="left" height="4032" width="3024" >}}
+{{< figure src="/img/SeniorWeek19/seniorWeek19Pic4.jpg" alt="Mill Traming" position="center" style="border-radius: 8px;" caption="" captionPosition="left" height="4032" width="3024" >}}
 
-{{< figure src="/img/SeniorWeek18/seniorWeek18Pic3.jpg" alt="Mill Traming" position="center" style="border-radius: 8px;" caption="" captionPosition="left" height="4032" width="3024" >}}
+{{< figure src="/img/SeniorWeek19/seniorWeek19Pic3.jpg" alt="Mill Traming" position="center" style="border-radius: 8px;" caption="" captionPosition="left" height="4032" width="3024" >}}
 
 
 ### Thursday 
