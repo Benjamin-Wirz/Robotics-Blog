@@ -39,6 +39,3 @@ Now with this done I was able to assemble the thing for the first time. Unfortun
 ### Thursay 
 
 SNOW DAY!
-
-
- 
