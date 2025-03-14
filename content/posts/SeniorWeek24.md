@@ -12,7 +12,7 @@ On friday I was not in shop. I was at the regional science fair. We definitely d
 
 On Monday I decided to start a new project. A few of us watch the same machining guy in shop, Inheritance Machining. In one of his videos he makes a minimalist wallet. I really like the design so I decided to make one. Instead of using the manual mill like he does, I decided to do this with CNC. I bought and downloaded his plans and made a CAD model of the wallet. From here I was able to start on CAM 
 
-{{< figure src="/img/SeniorWeek24/seniorWeek24Pic1.png" alt="Wallet Model" position="center" style="border-radius: 8px;" caption="CAD model of the Wallet" captionPosition="left" height="4032" width="3024" >}}
+{{< figure src="/img/SeniorWeek24/SeniorWeek24Pic1.png" alt="Wallet Model" position="center" style="border-radius: 8px;" caption="CAD model of the Wallet" captionPosition="left" height="4032" width="3024" >}}
 
 
 ### Tuesday
