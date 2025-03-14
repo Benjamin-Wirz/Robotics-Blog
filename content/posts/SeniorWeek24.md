@@ -21,7 +21,7 @@ All of tuesday I was working on the cam file. Because the part is decorational f
 
 This is the most complex part that I have machined so far. It has lots of geometry on every side. This means that I have to flip it over and also use cnc for the back side. Now rezeroing the stock is difficult, so I decided to trim down the stock to its final dimensions. This means that I can indicate off of the stock that I held it by. This makes it significantly easier to indicate and reference the part for the second operation. 
 
-{{< figure src="/img/SeniorWeek24/seniorWeek22Pic2.png" alt="Wallet CAM" position="center" style="border-radius: 8px;" caption="These are all the toolpaths in CAM for the wallet" captionPosition="left" height="4032" width="3024" >}}
+{{< figure src="/img/SeniorWeek24/SeniorWeek24Pic2.png" alt="Wallet CAM" position="center" style="border-radius: 8px;" caption="These are all the toolpaths in CAM for the wallet" captionPosition="left" height="4032" width="3024" >}}
 
 
 ### Wednesday
