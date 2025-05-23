@@ -8,7 +8,7 @@ This week I made the faces for the hammer. I also bored out the hammer handle an
 
 ### Monday
 
-I started late because I had my AP Calc test that day, and missed 4th period. Starting 5th period, I found an already cut off piece of brass that was just big enough. I then put it in the three jaw and faced it, then turned it down to the right OD. Then I set the distance that the smaller threaded diamter would go to, then faced that down. It turns out that this lathe is really powerful, and can take some insane DOC. I did 50 thou DOC, at .003 inches per revolution. Once I was to diameter, I made a small groove for the runnoff for the single pointing cutter. After that, it was the end of the day. 
+I started late because I had my AP Calc test that day, and missed 4th period. Starting 5th period, I found an already cut off piece of brass that was just big enough. I then put it in the three jaw and faced it, then turned it down to the right OD. Then I set the distance that the smaller threaded diamter would go to, then faced that down. It turns out that this lathe is really powerful, and can take some insane DOC. I did 50 thou DOC, at .003 inches per revolution. Once I was to diameter, I made a small groove for the runnoff for the single point\ing cutter. After that, it was the end of the day. 
 
 {{< youtube GNsGTKw4jZM >}}
 
